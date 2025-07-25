@@ -1,3 +1,7 @@
+// https://visualgo.net/en
+// https://www.youtube.com/watch?v=kPRA0W1kECg
+// https://www.toptal.com/developers/sorting-algorithms
+
 /**
  * Before we sort, we must swap!
  * Many sorting algorithms involve some type of swapping functionality
